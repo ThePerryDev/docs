@@ -1,5 +1,5 @@
 ## :mag: User Stories
-<p align="center"> <img src="BANNER.png" /></p>
+<p align="center"> <img src="04. USER STORIES.png" /></p>
 
 → [Voltar ao topo](#topo)
 
