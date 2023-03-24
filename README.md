@@ -39,5 +39,6 @@ Cada entrega será realizada a partir da criação de uma **tag** em cada reposi
 
 <p align="center"> <img src="./01. BACKLOG DO PRODUTO.png" /></p>
 <p align="center"> <img src="./02. REQUISITOS N+âO FUNCIONAIS.png" /></p>
+<p align="center"> <img src="./03. BACKLgit sOG DAS SPRINTS.png" /></p>
 
 → [Voltar ao topo](#topo)
