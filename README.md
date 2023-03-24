@@ -1,5 +1,5 @@
 ## :mag: User Stories
-<p align="center"> <img src="" /></p>
+<p align="center"> <img src="BANNER.png" /></p>
 
 → [Voltar ao topo](#topo)
 
@@ -7,4 +7,15 @@
 
 ## :repeat_one: Protótipo
 
-Assim como planejado anteriormente, foram criados wireframes para idealização do layout, foram utilizadas algumas ferramentas, sendo elas, o ColorSpace e Paleta de Cores Online para definição das cores ideais para serem utilizadas, e o Figma para a prototipagem de interfaces gráficas, porém, até esse momento sem adicionar funcionalidades reais, apenas visual.
+Conforme previamente planejado, nesta etapa do projeto foram desenvolvidos wireframes para a concepção do layout. Para isso, utilizamos diversas ferramentas, incluindo o ColorSpace e a Paleta de Cores Online para definir as cores ideais a serem utilizadas. Além disso, utilizamos o Figma para a criação de protótipos de interfaces gráficas, mas ainda sem a adição de funcionalidades reais, apenas com foco no aspecto visual. Assim ficou o resultado:
+
+<p align="center"> <img src="./" /></p>
+
+→ [Voltar ao topo](#topo)
+
+<span id="tecnologias">
+
+## :pager: Tecnologias
+
+Para a construção do nosso projeto, utilizamos uma variedade de linguagens, ferramentas, tecnologias e bibliotecas. Cada uma dessas escolhas foi cuidadosamente considerada para garantir a melhor implementação e atender aos requisitos do projeto. Abaixo, apresentamos as utilizadas na construção do projeto.
+
