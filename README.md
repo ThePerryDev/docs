@@ -6,9 +6,10 @@
     <a href="#objetivos">Objetivos da sprint</a> &nbsp |&nbsp &nbsp
     <a href="#entregas">Entregas</a> &nbsp |&nbsp &nbsp
     <a href="#prototipo">Demonstração</a> &nbsp |&nbsp &nbsp 
-    <a href="#metricas">Métricas do time</a> &nbsp |&nbsp &nbsp
+    <!--<a href="#metricas">Métricas do time</a> &nbsp |&nbsp &nbsp
     <a href="#links">Links úteis</a>
 </p>
+-->
 
 O projeto foi contituído com base na construção de um site capaz de ensinar de maneira didática a metodologia scrum e seus artefatos, onde permita que o usuário por meio do website absorva o conhecimento lá exposto por meio de um carousel elaborado com auxílio do framework bootstrap. Com base nessa estruturação a sprint um consistiu em horas voltadas para o levantamento de dados com o cliente, pesquisas bibliográficas, elaboração de conteúdo didádico, desenvolvimento do wireframe conforme a marca do cliente e codificação da tela inicial do protótipo para validação do cliente.
 
