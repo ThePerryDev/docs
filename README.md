@@ -1,4 +1,3 @@
-=======
 <br id="topo">
 
 <p align="center"> <img src="./BANNER.png" /></p>
