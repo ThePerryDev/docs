@@ -42,7 +42,7 @@ Como proposta para solucionar o desafio apresentado e elaborar uma plataforma de
 ## :desktop_computer: Desenvolvimento do protótipo
 Validado o wireframe com o cliente, iniciou-se o trabalho de desenvolvimento do protótipo na plataforma figma onde era possível permitir ao usuário compreender a interação que o site irá possuir entre as telas e formato com que o curso será apresentado.
     
-<p align="center"><img src="./prototipo.png" /></p>
+<p align="center"><img src="./prototipo1.png" /></p>
     
 Com este protótipo finalizamos os requisitos RF01 e RF04 propostos para esta sprint.
 
@@ -65,23 +65,3 @@ A entrega da primeira sprint foi desenvolvida utilizando-se as seguintes tecnolo
 - **PowerPoint:** aplicação utilizada para criação do material didático apresentado no site;
     
 → [Voltar ao topo](#topo)
-   
- <!--> 
-<span id="metricas">
-    
-## :chart_with_upwards_trend: Métricas do time
-Em prol de um melhor aproveitamento das habilidades de cada integrante, o time foi separado em duas frentes: frontend e backend, onde, na primeira sprint, o time de frontend ficou responsável pela confecção do protótipo e o time de backend pelas pesquisas e testes com as tecnologias sugeridas pela empresa para a criação da API e consumo das imagens nos repositórios em nuvem. O acompanhamento de atividades, de responsabilidade da Scrum Master, se encontra na imagem adiante, que contém o gráfico Burndown gerado pela equipe (onde o eixo X são os dias trabalhados na sprint e os valores do eixo Y representam as entregas e esforços realizados com o passar do tempo), incluindo as atividades desenvolvidas e seus responsáveis.
-
-   
-<p align="center"><img src="./burndown.png" /></p>
-    
-→ [Voltar ao topo](#topo)
-    
-<span id="links">
-    
-## :link: Links úteis
-
-- Site do protótipo: [https://polaris-fatec.netlify.app/](https://polaris-fatec.netlify.app/)
-- Documentação em PDF, estilo monografia (que se enquadra como um requisito não funcional do projeto): [clique aqui](./documentacao.pdf)
-- Repositório do site, onde estão seus códigos: [clique aqui](https://github.com/Equipe-Polaris-DSM-2021/web)
-- Tags geradas em cada repositório que simbolizam o fim da 1ª sprint: [API](https://github.com/Equipe-Polaris-DSM-2021/api/releases/tag/sprint-01), [Portal Web](https://github.com/Equipe-Polaris-DSM-2021/web/releases/tag/sprint-01)
