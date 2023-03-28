@@ -105,4 +105,4 @@ Para a construção do nosso projeto, utilizamos uma variedade de linguagens, fe
 
 ## :dart: Apresentação Final do Projeto
 
-<p align="center"> <img src="./OBRAS(2).png" /></p>
+<p align="center"> <img src="./OBRAS (2).png" /></p>
