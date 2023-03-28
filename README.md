@@ -76,7 +76,6 @@ Para a construção do nosso projeto, utilizamos uma variedade de linguagens, fe
 <img src="https://img.shields.io/badge/Microsoft Excel-20232A?style=for-the-badge&logo=MicrosoftExcel&logoColor=217346" alt="Excel" />
 <img src="https://img.shields.io/badge/Microsoft Word-20232A?style=for-the-badge&logo=MicrosoftWord&logoColor=2B579A" alt="Word" />
 <img src="https://img.shields.io/badge/Canva-20232A?style=for-the-badge&logo=Canva&logoColor=00C4CC" alt="Canva" />
-<img src="https://img.shields.io/badge/Slack-20232A?style=for-the-badge&logo=Slack&logoColor=4A154B" alt="Slack" />
 
 → [Voltar ao topo](#topo)
 
