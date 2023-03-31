@@ -50,7 +50,7 @@ Cada entrega será realizada a partir da criação de uma **tag** em cada reposi
 
 <span id="prototipo">
 
-## :repeat_one: Protótipo [![Figma Badge](https://img.shields.io/badge/Figma-black?style=flat-square&logo=Figma&logoColor=white)](https://www.figma.com/file/vtE3px4SRkL2Mr7fmXUBUs/API-Scrum-Fatec-Jacare%C3%AD?node-id=0%3A1&t=tzsBiCP6GCnOaWe3-1)
+## :repeat_one: Protótipo [![Figma Badge](https://img.shields.io/badge/Figma-20232A?style=flat-square&logo=Figma&logoColor=DC143C)](https://www.figma.com/file/vtE3px4SRkL2Mr7fmXUBUs/API-Scrum-Fatec-Jacare%C3%AD?node-id=0%3A1&t=tzsBiCP6GCnOaWe3-1)
 
 Conforme previamente planejado, nesta etapa do projeto foram desenvolvidos wireframes para a concepção do layout. Para isso, utilizamos diversas ferramentas, incluindo o ColorSpace e a Paleta de Cores Online para definir as cores ideais a serem utilizadas. Além disso, utilizamos o Figma para a criação de protótipos de interfaces gráficas, mas ainda sem a adição de funcionalidades reais, apenas com foco no aspecto visual. Assim ficou o resultado:
 
