@@ -54,7 +54,7 @@ Cada entrega será realizada a partir da criação de uma **tag** em cada reposi
 
 Conforme previamente planejado, nesta etapa do projeto foram desenvolvidos wireframes para a concepção do layout. Para isso, utilizamos diversas ferramentas, incluindo o ColorSpace e a Paleta de Cores Online para definir as cores ideais a serem utilizadas. Além disso, utilizamos o Figma para a criação de protótipos de interfaces gráficas, mas ainda sem a adição de funcionalidades reais, apenas com foco no aspecto visual. Assim ficou o resultado:
 
-<p align="center"> <img src="./" /></p>
+<p align="center"> <img src="./prot.gif" /></p>
 
 → [Voltar ao topo](#topo)
 
