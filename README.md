@@ -64,18 +64,19 @@ Conforme previamente planejado, nesta etapa do projeto foram desenvolvidos wiref
 
 Para a construção do nosso projeto, utilizamos uma variedade de linguagens, ferramentas, tecnologias e bibliotecas. Cada uma dessas escolhas foi cuidadosamente considerada para garantir a melhor implementação e atender aos requisitos do projeto. Abaixo, apresentamos as utilizadas na construção do projeto.
 
-<img src="https://img.shields.io/badge/Figma-20232A?style=for-the-badge&logo=figma&logoColor=DC143C" alt="Figma" /> 
+[![badge](https://img.shields.io/badge/Figma-20232A?style=for-the-badge&logo=figma&logoColor=DC143C)](https://www.figma.com/file/vtE3px4SRkL2Mr7fmXUBUs/API-Scrum-Fatec-Jacare%C3%AD?node-id=0%3A1&t=tzsBiCP6GCnOaWe3-1) 
+[![badge](https://img.shields.io/badge/Notion-20232A?style=for-the-badge&logo=Notion&logoColor=white)](https://zircon-paprika-b2d.notion.site/52f1e4cb81264e8eb6413f959621c565?v=f25234adcdee4f579ec697287b86b268)
 <img src="https://img.shields.io/badge/JavaScript-20232A?style=for-the-badge&logo=javascript&logoColor=7DF1E" alt="JavaScript" />
 <img src="https://img.shields.io/badge/HTML5-20232A?style=for-the-badge&logo=html5&logoColor=E34F26" alt="HTML" />
 <img src="https://img.shields.io/badge/CSS3-20232A?style=for-the-badge&logo=css3&logoColor=1572B6" alt="CSS" />
 <img src="https://img.shields.io/badge/Adobe Color-20232A?style=for-the-badge&logo=adobe&logoColor=FF0000" alt="Adobe Color" />
 <img src="https://img.shields.io/badge/VS Code-20232A?style=for-the-badge&logo=VisualStudioCode&logoColor=007ACC" alt="VS Code" />
 <img src="https://img.shields.io/badge/GitHub-20232A?style=for-the-badge&logo=GitHub&logoColor=FFFFFF" alt="GitHub" />
-<img src="https://img.shields.io/badge/Notion-20232A?style=for-the-badge&logo=Notion&logoColor=FFFFFF" alt="Notion" />
 <img src="https://img.shields.io/badge/Microsoft Teams-20232A?style=for-the-badge&logo=MicrosoftTeams&logoColor=#6264A7" alt="Microsoft Teams" />
 <img src="https://img.shields.io/badge/Microsoft Excel-20232A?style=for-the-badge&logo=MicrosoftExcel&logoColor=217346" alt="Excel" />
 <img src="https://img.shields.io/badge/Microsoft Word-20232A?style=for-the-badge&logo=MicrosoftWord&logoColor=2B579A" alt="Word" />
 <img src="https://img.shields.io/badge/Canva-20232A?style=for-the-badge&logo=Canva&logoColor=00C4CC" alt="Canva" />
+<img src="https://img.shields.io/badge/Bootstrap-20232A?style=for-the-badge&logo=Bootstrap&logoColor=7952B3" alt="Bootsrap" />
 
 → [Voltar ao topo](#topo)
 
