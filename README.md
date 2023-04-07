@@ -41,7 +41,7 @@ Neste requisito a equipe tem como meta entregar como incremento todo o site em c
 ## :chart_with_upwards_trend: Métricas do time
 Em prol de um melhor aproveitamento do tempo disponível durante a primeira sprint o time se dividiu em atividades como: codificação das funcionalidades e artefatos da tela inicial e codificação das funcionalidades da tela de contéudo do curso conforme protótipo validado.
     
-<p align="center"><img src="" /></p>
+<p align="center"><img src="./obras.png" /></p>
     
 → [Voltar ao topo](#topo)
 
