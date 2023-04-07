@@ -1,6 +1,6 @@
 <br id="topo">
 
-<p align="center"> <img src="./BANNER.png" /></p>
+<p align="center"> <img src="./Imagens/BANNER.png" /></p>
 
 <p align="center">
     <a href="#sobre">Sobre</a>  |  
@@ -37,14 +37,14 @@ Cada entrega será realizada a partir da criação de uma **tag** em cada reposi
 
 ## :dart: Backlog [![Notion Badge](https://img.shields.io/badge/Notion-black?style=for-the-badge&logo=Notion&logoColor=white)](https://zircon-paprika-b2d.notion.site/52f1e4cb81264e8eb6413f959621c565?v=f25234adcdee4f579ec697287b86b268)
 
-<p align="center"> <img src="./01. BACKLOG DO PRODUTO.png" /></p>
-<p align="center"> <img src="./02. REQUISITOS N+âO FUNCIONAIS.png" /></p>
-<p align="center"> <img src="./03. BACKLOG DAS SPRINTS.png" /></p>
+<p align="center"> <img src="./Imagens/01. BACKLOG DO PRODUTO.png" /></p>
+<p align="center"> <img src="./Imagens/02. REQUISITOS N+âO FUNCIONAIS.png" /></p>
+<p align="center"> <img src="./Imagens/03. BACKLOG DAS SPRINTS.png" /></p>
 
 → [Voltar ao topo](#topo)
 
 ## :mag: User Stories
-<p align="center"> <img src="04. USER STORIES.png" /></p>
+<p align="center"> <img src="./Imagens/04. USER STORIES.png" /></p>
 
 → [Voltar ao topo](#topo)
 
@@ -54,7 +54,7 @@ Cada entrega será realizada a partir da criação de uma **tag** em cada reposi
 
 Conforme previamente planejado, nesta etapa do projeto foram desenvolvidos wireframes para a concepção do layout. Para isso, utilizamos diversas ferramentas, incluindo o ColorSpace e a Paleta de Cores Online para definir as cores ideais a serem utilizadas. Além disso, utilizamos o Figma para a criação de protótipos de interfaces gráficas, mas ainda sem a adição de funcionalidades reais, apenas com foco no aspecto visual. Assim ficou o resultado:
 
-<p align="center"> <img src="./prot.gif" /></p>
+<p align="center"> <img src="./Imagens/prot.gif" /></p>
 
 → [Voltar ao topo](#topo)
 
@@ -105,6 +105,6 @@ Para a construção do nosso projeto, utilizamos uma variedade de linguagens, fe
 
 ## :dart: Apresentação Final do Projeto
 
-<p align="center"> <img src="./OBRAS (2).png" /></p>
+<p align="center"> <img src="./Imagens/OBRAS (2).png" /></p>
 
 → [Voltar ao topo](#topo)
