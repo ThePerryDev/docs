@@ -35,7 +35,7 @@ Cada entrega será realizada a partir da criação de uma **tag** em cada reposi
 
 <span id="backlogs">
 
-## :dart: Backlog [![Notion Badge](https://img.shields.io/badge/Notion-black?style=flat-square&logo=Notion&logoColor=white)](https://zircon-paprika-b2d.notion.site/52f1e4cb81264e8eb6413f959621c565?v=f25234adcdee4f579ec697287b86b268)
+## :dart: Backlog [![Notion Badge](https://img.shields.io/badge/Notion-black?style=for-the-badge&logo=Notion&logoColor=white)](https://zircon-paprika-b2d.notion.site/52f1e4cb81264e8eb6413f959621c565?v=f25234adcdee4f579ec697287b86b268)
 
 <p align="center"> <img src="./01. BACKLOG DO PRODUTO.png" /></p>
 <p align="center"> <img src="./02. REQUISITOS N+âO FUNCIONAIS.png" /></p>
@@ -50,7 +50,7 @@ Cada entrega será realizada a partir da criação de uma **tag** em cada reposi
 
 <span id="prototipo">
 
-## :repeat_one: Protótipo [![Figma Badge](https://img.shields.io/badge/Figma-20232A?style=flat-square&logo=Figma&logoColor=DC143C)](https://www.figma.com/file/vtE3px4SRkL2Mr7fmXUBUs/API-Scrum-Fatec-Jacare%C3%AD?node-id=0%3A1&t=tzsBiCP6GCnOaWe3-1)
+## :repeat_one: Protótipo [![Figma Badge](https://img.shields.io/badge/Figma-20232A?style=for-the-badge&logo=Figma&logoColor=DC143C)](https://www.figma.com/file/vtE3px4SRkL2Mr7fmXUBUs/API-Scrum-Fatec-Jacare%C3%AD?node-id=0%3A1&t=tzsBiCP6GCnOaWe3-1)
 
 Conforme previamente planejado, nesta etapa do projeto foram desenvolvidos wireframes para a concepção do layout. Para isso, utilizamos diversas ferramentas, incluindo o ColorSpace e a Paleta de Cores Online para definir as cores ideais a serem utilizadas. Além disso, utilizamos o Figma para a criação de protótipos de interfaces gráficas, mas ainda sem a adição de funcionalidades reais, apenas com foco no aspecto visual. Assim ficou o resultado:
 
@@ -66,12 +66,12 @@ Para a construção do nosso projeto, utilizamos uma variedade de linguagens, fe
 
 [![badge](https://img.shields.io/badge/Figma-20232A?style=for-the-badge&logo=figma&logoColor=DC143C)](https://www.figma.com/file/vtE3px4SRkL2Mr7fmXUBUs/API-Scrum-Fatec-Jacare%C3%AD?node-id=0%3A1&t=tzsBiCP6GCnOaWe3-1) 
 [![badge](https://img.shields.io/badge/Notion-20232A?style=for-the-badge&logo=Notion&logoColor=white)](https://zircon-paprika-b2d.notion.site/52f1e4cb81264e8eb6413f959621c565?v=f25234adcdee4f579ec697287b86b268)
+[![badge](https://img.shields.io/badge/GitHub-20232A?style=for-the-badge&logo=GitHub&logoColor=FFFFFF)](https://github.com/ThePerryDev)
 <img src="https://img.shields.io/badge/JavaScript-20232A?style=for-the-badge&logo=javascript&logoColor=7DF1E" alt="JavaScript" />
 <img src="https://img.shields.io/badge/HTML5-20232A?style=for-the-badge&logo=html5&logoColor=E34F26" alt="HTML" />
 <img src="https://img.shields.io/badge/CSS3-20232A?style=for-the-badge&logo=css3&logoColor=1572B6" alt="CSS" />
 <img src="https://img.shields.io/badge/Adobe Color-20232A?style=for-the-badge&logo=adobe&logoColor=FF0000" alt="Adobe Color" />
 <img src="https://img.shields.io/badge/VS Code-20232A?style=for-the-badge&logo=VisualStudioCode&logoColor=007ACC" alt="VS Code" />
-<img src="https://img.shields.io/badge/GitHub-20232A?style=for-the-badge&logo=GitHub&logoColor=FFFFFF" alt="GitHub" />
 <img src="https://img.shields.io/badge/Microsoft Teams-20232A?style=for-the-badge&logo=MicrosoftTeams&logoColor=#6264A7" alt="Microsoft Teams" />
 <img src="https://img.shields.io/badge/Microsoft Excel-20232A?style=for-the-badge&logo=MicrosoftExcel&logoColor=217346" alt="Excel" />
 <img src="https://img.shields.io/badge/Microsoft Word-20232A?style=for-the-badge&logo=MicrosoftWord&logoColor=2B579A" alt="Word" />
@@ -87,15 +87,15 @@ Para a construção do nosso projeto, utilizamos uma variedade de linguagens, fe
 |    Função     | Nome                                  |                                                                                                                                                      LinkedIn & GitHub                                                                                                                                                      |
 | :-----------: | :------------------------------------ | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
 | Product Owner | Daniel Dornelas                     |     [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/Dani-dornas)      |
-| Scrum Master  | Heclair José           |          [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/heclairsousa/) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/heclair)          |
-|   Dev Team    | Aloisio Garkauskas                       |         [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in//) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/Garkauskas)          |
+| Scrum Master  | Heclair Sousa           |          [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/heclairsousa/) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/heclair)          |
+|   Dev Team    | Aloisio Garkauskas                       |         [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/Garkauskas)          |
 |   Dev Team    | Bianca Lucas da Silva Caçula                |   [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/bianca-lucas-da-silva-cacula) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/biancalsc)   |
 |   Dev Team    | Bruno Mendes Carvalho de Paula       |           [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/bruno-mendes-588779174/) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/BrunoMendesC)            |
 |   Dev Team    | João Vitor           |      [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/joão-vitor-quental/) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/Ascheente)      |
 |   Dev Team    | Luís Eduardo       |        [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/Eduardo270704)        |
 |   Dev Team    | Mariana Ramalho              | [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mariana-ramalhog/) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/mramalhog) |
-|   Dev Team    | Rafael Estevam               | [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rafael-estevam-de-siqueira-77891423a) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com) |
-|   Dev Team    | Willian Garcia               | [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/Willian-Garcia) |
+|   Dev Team    | Rafael Estevam               | [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rafael-estevam-de-siqueira-77891423a) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/rafaelres) |
+|   Dev Team    | Willian Garcia               | [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/willian-garcia-6b0892123/) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/Willian-Garcia) |
 
 
 
@@ -106,3 +106,5 @@ Para a construção do nosso projeto, utilizamos uma variedade de linguagens, fe
 ## :dart: Apresentação Final do Projeto
 
 <p align="center"> <img src="./OBRAS (2).png" /></p>
+
+→ [Voltar ao topo](#topo)
