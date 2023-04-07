@@ -25,7 +25,7 @@ Os requisitos (tanto do cliente como da instituição de ensino) abrangidos por 
         
 ## :heavy_check_mark: Entregas
 
-### RF 03: Desenvolvimento do Material Didático Módulo 02 e 03
+### RF 03: Desenvolvimento do Material Didático Módulo 02
 
 Neste requisito a equipe seguiu com o desenvolvimento do material que será apresentado ao aluno em formato power point de forma visual com imagens e textos para treinamento na metodologia scrum.
 
