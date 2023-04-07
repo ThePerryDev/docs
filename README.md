@@ -58,7 +58,7 @@ Neste requisito a equipe seguiu com o desenvolvimento do material que será apre
 ## :chart_with_upwards_trend: Métricas do time
 Em prol de um melhor aproveitamento do tempo disponível durante a primeira sprint o time se dividiu em atividades como: planejamento, brieffing, estruturação do GitHub, criação do product backlog, sprint backlog, pesquisa e elaboração do material didático, criação do wireframe e layout do site, assim como estruturação da equipe para gestão das horas com o gráfico burndown.
     
-<p align="center"><img src="./burndown.png" /></p>
+<p align="center"><img src="./burndown2.png" /></p>
     
 → [Voltar ao topo](#topo)
 
