@@ -6,10 +6,9 @@
     <a href="#objetivos">Objetivos da sprint</a> &nbsp |&nbsp &nbsp
     <a href="#entregas">Entregas</a> &nbsp |&nbsp &nbsp
     <a href="#prototipo">Demonstração</a> &nbsp |&nbsp &nbsp 
-    <!--<a href="#metricas">Métricas do time</a> &nbsp |&nbsp &nbsp
-    <a href="#links">Links úteis</a>
+    <a href="#metricas">Métricas do time</a> &nbsp |&nbsp &nbsp
 </p>
--->
+
 
 O projeto foi contituído com base na construção de um site capaz de ensinar de maneira didática a metodologia scrum e seus artefatos, onde permita que o usuário por meio do website absorva o conhecimento lá exposto por meio de uma estrutura carrossel elaborado com auxílio do framework bootstrap. Com base nessa estruturação a sprint um consistiu em horas voltadas para o levantamento de dados com o cliente, pesquisas bibliográficas, elaboração de conteúdo didádico, desenvolvimento do wireframe conforme a marca do cliente e validação do protótipo pelo cliente.
 
@@ -55,6 +54,7 @@ Para este requisito o time pretende entregar junto com a documentação do proje
 
 Neste requisito a equipe seguiu com o desenvolvimento do material que será apresentado ao aluno em formato power point de forma visual com imagens e textos para explicação dos artefatos.
 
+ <span id="metricas">
 ## :chart_with_upwards_trend: Métricas do time
 Em prol de um melhor aproveitamento do tempo disponível durante a primeira sprint o time se dividiu em atividades como: planejamento, brieffing, estruturação do GitHub, criação do product backlog, sprint backlog, pesquisa e elaboração do material didático, criação do wireframe e layout do site, assim como estruturação da equipe para gestão das horas com o gráfico burndown.
     
