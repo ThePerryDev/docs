@@ -5,11 +5,8 @@
 <p align="center">
     <a href="#objetivos">Objetivos da sprint</a> &nbsp |&nbsp &nbsp
     <a href="#entregas">Entregas</a> &nbsp |&nbsp &nbsp
-    <a href="#prototipo">Demonstração</a> &nbsp |&nbsp &nbsp 
-    <!--<a href="#metricas">Métricas do time</a> &nbsp |&nbsp &nbsp
-    <a href="#links">Links úteis</a>
+    <a href="#metricas">Métricas do time</a> &nbsp |&nbsp &nbsp
 </p>
--->
 
 O projeto foi contituído com base na construção de um site capaz de ensinar de maneira didática a metodologia scrum e seus artefatos, onde permita que o usuário por meio do website absorva o conhecimento lá exposto por meio de um carousel elaborado com auxílio do framework bootstrap. Com base nessa estruturação a sprint dois consistiu em horas voltadas para o desenvolvimento web de toda estrutura do site sendo ela a tela inicial e tela de exibição do conteúdo do curso além do conteúdo do curso que será exibido no módulo 02 e 03.
 
