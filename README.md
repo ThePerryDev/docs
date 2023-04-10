@@ -55,6 +55,7 @@ Para este requisito o time pretende entregar junto com a documentação do proje
 Neste requisito a equipe seguiu com o desenvolvimento do material que será apresentado ao aluno em formato power point de forma visual com imagens e textos para explicação dos artefatos.
 
  <span id="metricas">
+     
 ## :chart_with_upwards_trend: Métricas do time
 Em prol de um melhor aproveitamento do tempo disponível durante a primeira sprint o time se dividiu em atividades como: planejamento, brieffing, estruturação do GitHub, criação do product backlog, sprint backlog, pesquisa e elaboração do material didático, criação do wireframe e layout do site, assim como estruturação da equipe para gestão das horas com o gráfico burndown.
     
