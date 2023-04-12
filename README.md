@@ -28,8 +28,8 @@ Cada entrega será realizada a partir da criação de uma **tag** em cada reposi
 | Sprint | Previsão | Status | Histórico |
 |:------:|:----------:|:-------------|:-------------------------------------------------:|
 | 01 | De 13/03/23 a 09/04/23 | :clock2: Em andamento | [ver relatório](https://github.com/ThePerryDev/docs/tree/sprint-01)|
-| 02 | De 13/04/23 a 07/05/23 | :soon: Não Iniciado | [ver relatório]|(https://github.com/ThePerryDev/docs/tree/sprint-02)|
-| 03 | De 15/05/23 a 06/06/23 | :soon: Não Iniciado | [ver relatório]|(https://github.com/ThePerryDev/docs/tree/sprint-03)|
+| 02 | De 13/04/23 a 07/05/23 | :soon: Não Iniciado | [ver relatório](https://github.com/ThePerryDev/docs/tree/sprint-02)|
+| 03 | De 15/05/23 a 06/06/23 | :soon: Não Iniciado | [ver relatório](https://github.com/ThePerryDev/docs/tree/sprint-03)|
 
 → [Voltar ao topo](#topo)
 
