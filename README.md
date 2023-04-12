@@ -27,8 +27,8 @@ A partir da apresentação do desafio pela empresa FATEC, a solução apresentad
 Cada entrega será realizada a partir da criação de uma **tag** em cada repositório (Doc, Web e API), assim como a criação de branchs específicas para cada Sprint a fim de controlar cada etapa do projeto. Observe a relação a seguir:
 | Sprint | Previsão | Status | Histórico |
 |:------:|:----------:|:-------------|:-------------------------------------------------:|
-| 01 | De 13/03/23 a 09/04/23 | :heavy_check_mark: Em andamento | [ver relatório](https://github.com/ThePerryDev/docs/tree/sprint-01)|
-| 02 | De 13/04/23 a 07/05/23 | :clock2: Não Iniciado | [ver relatório](https://github.com/ThePerryDev/docs/tree/sprint-02)|
+| 01 | De 13/03/23 a 09/04/23 | :heavy_check_mark: Entregue| [ver relatório](https://github.com/ThePerryDev/docs/tree/sprint-01)|
+| 02 | De 13/04/23 a 07/05/23 | :clock2: Em andamento | [ver relatório](https://github.com/ThePerryDev/docs/tree/sprint-02)|
 | 03 | De 15/05/23 a 06/06/23 | :soon: Não Iniciado | [ver relatório](https://github.com/ThePerryDev/docs/tree/sprint-03)|
 
 → [Voltar ao topo](#topo)
