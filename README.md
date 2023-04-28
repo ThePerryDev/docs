@@ -37,8 +37,7 @@ Cada entrega será realizada a partir da criação de uma **tag** em cada reposi
 
 ## :dart: Backlog [![Notion Badge](https://img.shields.io/badge/Notion-black?style=for-the-badge&logo=Notion&logoColor=white)](https://zircon-paprika-b2d.notion.site/52f1e4cb81264e8eb6413f959621c565?v=f25234adcdee4f579ec697287b86b268)
 
-<p align="center"> <img src="./Imagens/01. BACKLOG DO PRODUTO.png" /></p>
-<p align="center"> <img src="./Imagens/02. REQUISITOS N+âO FUNCIONAIS.png" /></p>
+<p align="center"> <img src="./Imagens/README.png" /></p>
 <p align="center"> <img src="./Imagens/03. BACKLOG DAS SPRINTS.png" /></p>
 
 → [Voltar ao topo](#topo)
