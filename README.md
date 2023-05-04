@@ -55,6 +55,8 @@ Conforme previamente planejado, nesta etapa do projeto foram desenvolvidos wiref
 
 <p align="center"> <img src="./Imagens/prot.gif" /></p>
 
+[CONFIRA A VERSÃO NO AMBIENTE DE HOMOLOGAÇÃO](https://web-k7ezo3dt4-theperrydev.vercel.app/)
+
 → [Voltar ao topo](#topo)
 
 <span id="tecnologias">
