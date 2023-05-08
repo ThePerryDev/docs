@@ -38,6 +38,6 @@ Neste requisito a equipe tem como meta entregar como incremento todo o site em c
 ## :chart_with_upwards_trend: Métricas do time
 Em prol de um melhor aproveitamento do tempo disponível durante a segunda sprint, o time se dividiu em atividades como: codificação das funcionalidades da tela inicial e codificação das funcionalidades da tela de contéudo do curso conforme protótipo validado.
     
-<p align="center"><img src="./burndown sprint2.png" /></p>
+<p align="center"><img src="./burndownsp2.png" /></p>
     
 → [Voltar ao topo](#topo)
