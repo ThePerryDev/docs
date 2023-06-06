@@ -9,27 +9,27 @@
 </p>
 
 
-O projeto foi constituído com base na construção de um site capaz de ensinar de maneira didática a metodologia scrum e seus artefatos, onde permita que o usuário por meio do website absorva o conhecimento lá exposto por meio de um carousel elaborado com auxílio do framework bootstrap. Com base nessa estruturação a sprint três consiste em horas voltadas para o desenvolvimento do conteúdo didático do módulo 03, teste de funcionalidades, correção de bugs e upload de todo o conteúdo didático elaborado.
+O projeto foi constituído com base na construção de um site capaz de ensinar de maneira didática a metodologia ágil, utilizando o Framework Scrum, onde permita que o usuário por meio do website absorva o conhecimento lá exposto por meio de um carousel elaborado com auxílio do framework bootstrap. Com base nessa estruturação a Sprint 3 consiste em horas voltadas para o desenvolvimento do conteúdo didático do Módulo 03, teste de funcionalidades, correção de bugs e upload de todo o conteúdo didático elaborado.
 
 <span id="objetivos">
     
 ## :dart: Objetivos da Sprint
 Os requisitos (tanto do cliente como da instituição de ensino) abrangidos por essa sprint são:
 
-- RF 03: Desenvolvimento do material didático
-- RF 06: Desenvolvimento do sistema web
+- RF 01: Desenvolvimento do material didático
+- RF 03: Desenvolvimento do sistema web
 
 <span id="entregas">
         
 ## :heavy_check_mark: Entregas
 
-### RF 03: Desenvolvimento do Material Didático Módulo 03
+### RF 01: Desenvolvimento do Material Didático Módulo 03
 
-Neste requisito a equipe seguiu com o desenvolvimento do material que será apresentado ao aluno em formato power point de forma visual com imagens e textos para treinamento na metodologia scrum.
+Neste requisito a equipe seguiu com o desenvolvimento do material que será apresentado ao aluno em formato power point de forma visual com imagens e textos para treinamento do framework Scrum.
 
-### RF 05: Teste e correção de bugs
+### RF 03: Teste e correção de bugs
 
-Neste requisito a equipe tem como meta entregar como incremento todo o site em capacidade funcional para validação do cliente conforme o protótipo validado na sprint 01.
+Neste requisito a equipe tem como meta entregar como incremento todo o site em capacidade funcional para validação do cliente conforme o protótipo validado na sprint 02.
 
 <p align="center"><img src="./prot.gif" /><p>
 
