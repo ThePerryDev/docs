@@ -16,9 +16,9 @@
 
 ## :bookmark_tabs: Sobre o projeto
 
-A partir da apresentação do desafio pela empresa FATEC, a solução apresentada pela empresa The Perry Devs consiste em criar um site institucional para treinamento da metodologia ágil e seus artefatos, fazendo com que os colaboradores da FATEC padronizem a elaboração de seus projetos e multipliquem a metodologia após o aprendizado.
+A partir da apresentação do desafio dado pela empresa FATEC, a solução apresentada pela empresa The Perry Devs consiste em criar um site institucional para treinamento da metodologia ágil e seus artefatos, fazendo com que os colaboradores da FATEC padronizem a elaboração de seus projetos e multipliquem a metodologia após o aprendizado.
 
-> _Projeto baseado na metodologia ágil SCRUM, procurando desenvolver a Proatividade, Autonomia, Colaboração e Entrega de Resultados dos envolvidos_
+> _Projeto baseado na metodologia ágil, utilizando o Framework SCRUM, procurando desenvolver a Proatividade, Autonomia, Colaboração e Entrega de Resultados dos envolvidos_
 
 :pushpin: Status do Projeto: **Em Andamento** :on:
 
@@ -28,8 +28,8 @@ Cada entrega será realizada a partir da criação de uma **tag** em cada reposi
 | Sprint | Previsão | Status | Histórico |
 |:------:|:----------:|:-------------|:-------------------------------------------------:|
 | 01 | De 13/03/23 a 09/04/23 | :heavy_check_mark: Entregue| [ver relatório](https://github.com/ThePerryDev/docs/tree/sprint-01)|
-| 02 | De 13/04/23 a 07/05/23 | :clock2: Em andamento | [ver relatório](https://github.com/ThePerryDev/docs/tree/sprint-02)|
-| 03 | De 15/05/23 a 06/06/23 | :soon: Não Iniciado | [ver relatório](https://github.com/ThePerryDev/docs/tree/sprint-03)|
+| 02 | De 13/04/23 a 07/05/23 | :heavy_check_mark: Entregue| [ver relatório](https://github.com/ThePerryDev/docs/tree/sprint-02)|
+| 03 | De 15/05/23 a 06/06/23 | :heavy_check_mark: Entregue| [ver relatório](https://github.com/ThePerryDev/docs/tree/sprint-03)|
 
 → [Voltar ao topo](#topo)
 
@@ -51,7 +51,7 @@ Cada entrega será realizada a partir da criação de uma **tag** em cada reposi
 
 ## :repeat_one: Protótipo [![Figma Badge](https://img.shields.io/badge/Figma-20232A?style=for-the-badge&logo=Figma&logoColor=DC143C)](https://www.figma.com/file/vtE3px4SRkL2Mr7fmXUBUs/API-Scrum-Fatec-Jacare%C3%AD?node-id=0%3A1&t=tzsBiCP6GCnOaWe3-1)
 
-Conforme previamente planejado, nesta etapa do projeto foram desenvolvidos wireframes para a concepção do layout. Para isso, utilizamos diversas ferramentas, incluindo o ColorSpace e a Paleta de Cores Online para definir as cores ideais a serem utilizadas. Além disso, utilizamos o Figma para a criação de protótipos de interfaces gráficas, mas ainda sem a adição de funcionalidades reais, apenas com foco no aspecto visual. Assim ficou o resultado:
+Conforme previamente planejado, nesta etapa do projeto (Sprint 1/2) foram desenvolvidos wireframes para a concepção do layout. Para isso, utilizamos diversas ferramentas, incluindo o ColorSpace e a Paleta de Cores Online para definir as cores ideais a serem utilizadas. Além disso, utilizamos o Figma para a criação de protótipos de interfaces gráficas, mas ainda sem a adição de funcionalidades reais, apenas com foco no aspecto visual. Assim ficou o resultado:
 
 <p align="center"> <img src="./Imagens/prot.gif" /></p>
 
