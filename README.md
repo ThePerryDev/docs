@@ -18,6 +18,7 @@ Os requisitos (tanto do cliente como da instituição de ensino) abrangidos por 
 
 - RF 01: Desenvolvimento do material didático
 - RF 03: Desenvolvimento do sistema web
+- RF 04: Documentação
 
 <span id="entregas">
         
@@ -30,6 +31,10 @@ Neste requisito a equipe seguiu com o desenvolvimento do material que será apre
 ### RF 03: Desenvolvimento do sistema web
 
 Neste requisito a equipe tem como meta finalizar o desenvolvimento do sistema web, entregando como incremento todo o site em capacidade funcional para validação do cliente conforme o protótipo validado na sprint 02.
+
+### RF 04: Documentação
+
+Neste requisito a equipe disponibilizou em sua página no github toda a documentação do projeto, desde a apresentação das 3 sprints, até a apresentação do projeto final. O link para o projeto final se encontra disponível na main.
 
 <p align="center"><img src="./prot.gif" /><p>
 
