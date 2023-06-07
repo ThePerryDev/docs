@@ -55,7 +55,7 @@ Conforme previamente planejado, nesta etapa do projeto (Sprint 1/2) foram desenv
 
 <p align="center"> <img src="./Imagens/prot.gif" /></p>
 
-[CONFIRA A VERSÃO NO AMBIENTE DE HOMOLOGAÇÃO](https://web-k7ezo3dt4-theperrydev.vercel.app/)
+[CONFIRA A VERSÃO NO AMBIENTE DE HOMOLOGAÇÃO](https://web-git-master-theperrydev.vercel.app/index.html)
 
 → [Voltar ao topo](#topo)
 
