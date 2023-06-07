@@ -51,7 +51,12 @@ Cada entrega será realizada a partir da criação de uma **tag** em cada reposi
 
 ## :repeat_one: Protótipo [![Figma Badge](https://img.shields.io/badge/Figma-20232A?style=for-the-badge&logo=Figma&logoColor=DC143C)](https://www.figma.com/file/vtE3px4SRkL2Mr7fmXUBUs/API-Scrum-Fatec-Jacare%C3%AD?node-id=0%3A1&t=tzsBiCP6GCnOaWe3-1)
 
-Conforme previamente planejado, nesta etapa do projeto (Sprint 1/2) foram desenvolvidos wireframes para a concepção do layout. Para isso, utilizamos diversas ferramentas, incluindo o ColorSpace e a Paleta de Cores Online para definir as cores ideais a serem utilizadas. Além disso, utilizamos o Figma para a criação de protótipos de interfaces gráficas, mas ainda sem a adição de funcionalidades reais, apenas com foco no aspecto visual. Assim ficou o resultado:
+Conforme previamente planejado, nesta etapa do projeto (Sprint 1/2) foram desenvolvidos wireframes para a concepção do layout. Para isso, utilizamos diversas ferramentas, incluindo o ColorSpace e a identidade visual da empresa, disponível na página do Centro Paula Souza.
+
+<p align="center"> <img src="./Imagens/mif.png" /></p>
+
+ Além disso, utilizamos o Figma para a criação de protótipos de interfaces gráficas, mas ainda sem a adição de funcionalidades reais, apenas com foco no aspecto visual. Assim ficou o resultado:
+
 
 <p align="center"> <img src="./Imagens/prot.gif" /></p>
 
